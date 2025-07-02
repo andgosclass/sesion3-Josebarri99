@@ -1,6 +1,6 @@
 import socket
 s = socket.socket()
-ip = "127.0.1.1"
+ip = "U-1CTR3N2LFSGT8"
 puerto = 12345
 
 host = socket.gethostname()
